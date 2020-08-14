@@ -41,6 +41,6 @@ Test communication with url(http://your_current_ip_address:5000/acne/pictures) a
 Android emulator using okhttp3 on Android. If the url is set to 127.0.0.1 instead of the own IP address, 
 an error occurs because the emulator thinks it is itself. Use the ip address of your pc, not the local host name.
         
-
-
+* * *
+for more info check this site: https://www.flagly.org/course/chapters/713/
 
