@@ -42,6 +42,4 @@ Android emulator using okhttp3 on Android. If the url is set to 127.0.0.1 instea
 an error occurs because the emulator thinks it is itself. Use the ip address of your pc, not the local host name.
         
 * * *
-for more info check this site: https://www.flagly.org/course/chapters/713/
-
-                               https://www.flagly.org/course/chapters/735/
+for more info check this site: https://www.flagly.org/course/chapters/713/    OR    https://www.flagly.org/course/chapters/735/
